@@ -1,2 +1,2 @@
 # icon
-[Pure css icons](http://htmlpreview.github.io/?https://github.com/HecateDK/icon/blob/master/icon.html)
+[Pure css icons](http://codepen.io/minyillee/pen/eBBgOL)
